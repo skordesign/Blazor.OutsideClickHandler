@@ -5,11 +5,6 @@
     <RazorLangVersion>3.0</RazorLangVersion>
     <Description>Detect outside click of element for Blazor</Description>
   </PropertyGroup>
-
-  <ItemGroup>
-    <None Include="wwwroot\outsideHandleContainerJsInterop.js" />
-  </ItemGroup>
-
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components" Version="3.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="3.1.0" />
